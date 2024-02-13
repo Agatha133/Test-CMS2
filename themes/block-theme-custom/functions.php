@@ -15,12 +15,12 @@
  *
  * @return void
  */
-function block_theme_custom_styles() {
+function block_theme_customwp_enqueue_scripts() {
 	wp_enqueue_style(
-		'block-theme-custom-style',
+		'block-theme-custom',
 		get_stylesheet_uri(),
 		[],
 		wp_get_theme()->get( 'Version' )
 	);
 }
-add_action( 'wp_enqueue_scripts', 'block_theme_custom_styles' );
+add_action( 'wp_enqueue_scripts', 'block_theme_custom_wp_enqueue_scripts' );
