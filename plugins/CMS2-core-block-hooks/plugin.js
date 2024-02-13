@@ -8,6 +8,16 @@ wp.blocks.registerBlockStyle( 'core/navigation', {
     label: 'Custom Navigation',
 } );
 
+wp.blocks.registerBlockStyle( 'core/separator', {
+    name: 'cust-separator',
+    label: 'Custom Line',
+} );
+
+wp.blocks.registerBlockStyle( 'core/row', {
+    name: 'cust-homepage-row',
+    label: 'Custom Row',
+} );
+
 wp.domReady( function () {
     wp.blocks.unregisterBlockStyle( 'core/social-links', 'pill-shape' );
 } );

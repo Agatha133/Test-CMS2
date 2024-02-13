@@ -36,6 +36,17 @@ body {
 	justify-content: space-around;
 }
 
+/* LINE */
+.is-style-cust-separator{
+	height: 5px;
+}
+
+/* ROW */
+.is-style-cust-homepage-row{
+	height: 200px;
+}
+
+
 .is-style-fancy-paragraph{
 	color: green;
 }
