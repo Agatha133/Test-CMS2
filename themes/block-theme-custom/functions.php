@@ -15,7 +15,7 @@
  *
  * @return void
  */
-function block_theme_customwp_enqueue_scripts() {
+function block_theme_custom_wp_enqueue_scripts() {
 	wp_enqueue_style(
 		'block-theme-custom',
 		get_stylesheet_uri(),
