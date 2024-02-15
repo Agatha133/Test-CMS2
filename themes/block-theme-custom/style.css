@@ -55,3 +55,28 @@ body {
 .is-style-cust-listitem{
 	color: red;
 }
+
+.is-style-cust-code{
+	color: purple;
+}
+
+.is-style-cust-details{
+	color: blue;
+}
+
+.is-style-cust-preformatted{
+	color: yellow;
+}
+
+.is-style-cust-quote{
+	color: lightblue;
+}
+
+.is-style-cust-pullquote{
+	color: lightsalmon;
+}
+
+.is-style-cust-table{
+	background-color: lightgreen;
+	color: black;
+}
