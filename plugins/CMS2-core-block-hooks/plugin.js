@@ -3,6 +3,11 @@ wp.blocks.registerBlockStyle( 'core/paragraph', {
     label: 'Fancy Paragraph',
 } );
 
+wp.blocks.registerBlockStyle( 'core/list-item', {
+    name: 'cust-listitem',
+    label: 'Custom List Item',
+} );
+
 wp.blocks.registerBlockStyle( 'core/navigation', {
     name: 'cust-navigation',
     label: 'Custom Navigation',

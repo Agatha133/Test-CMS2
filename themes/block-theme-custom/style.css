@@ -46,7 +46,12 @@ body {
 	height: 200px;
 }
 
+/* Changing Text */
 
 .is-style-fancy-paragraph{
 	color: green;
+}
+
+.is-style-cust-listitem{
+	color: red;
 }
