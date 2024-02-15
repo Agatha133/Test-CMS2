@@ -47,6 +47,9 @@ body {
 }
 
 /* Changing Text */
+.is-style-fancy-heading{
+	color: red;
+}
 
 .is-style-fancy-paragraph{
 	color: green;
@@ -79,4 +82,12 @@ body {
 .is-style-cust-table{
 	background-color: lightgreen;
 	color: black;
+}
+
+.is-style-cust-verse{
+	color: lightgoldenrodyellow;
+}
+
+.is-style-cust-footnotes{
+	color: lightskyblue;
 }

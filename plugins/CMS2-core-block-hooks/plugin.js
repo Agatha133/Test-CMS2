@@ -1,5 +1,9 @@
 
 // Changing the Text
+wp.blocks.registerBlockStyle( 'core/heading', {
+    name: 'cust-heading',
+    label: 'Custom heading',
+} );
 
 wp.blocks.registerBlockStyle( 'core/paragraph', {
     name: 'fancy-paragraph',
@@ -39,6 +43,16 @@ wp.blocks.registerBlockStyle( 'core/pullquote', {
 wp.blocks.registerBlockStyle( 'core/table', {
     name: 'cust-table',
     label: 'Custom table',
+} );
+
+wp.blocks.registerBlockStyle( 'core/verse', {
+    name: 'cust-verse',
+    label: 'Custom verse',
+} );
+
+wp.blocks.registerBlockStyle( 'core/footnotes', {
+    name: 'cust-footnotes',
+    label: 'Custom footnotes',
 } );
 
 
