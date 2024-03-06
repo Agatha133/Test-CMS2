@@ -91,3 +91,7 @@ body {
 .is-style-cust-footnotes{
 	color: lightskyblue;
 }
+.wp-site-blocks{
+	background-color: white;
+	color: black;
+}
