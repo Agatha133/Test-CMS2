@@ -156,3 +156,6 @@ h1{
 .wp-block-button__link.wp-element-button.add_to_cart_button.wc-block-components-product-button__button{
 	background-color: rgb(213,79,191);
 }
+.single_add_to_cart_button{
+	background-color: rgb(213,79,191);
+}
