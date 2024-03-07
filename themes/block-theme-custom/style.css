@@ -95,3 +95,59 @@ body {
 	background-color: white;
 	color: black;
 }
+.wp-block-navigation{
+	background-color: rgb(58, 58, 58);
+	color: white;
+}
+/* .wp-block-post-template{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+} */
+
+
+/* .wp-block-spacer{
+	display: none;
+}
+.wp-block-post-featured-image img{
+	width: 80%;
+}
+.wp-block-post-excerpt__excerpt{
+	height: 200px;
+	overflow: hidden;
+}
+.wp-block-post-title a{
+	display:none;
+} */
+
+.attachment-post-thumbnail.size-post-thumbnail.wp-post-image{
+	width:75%;
+	margin: 0;
+} 
+
+.wp-block-columns-is-layout-flex {
+	padding: 15px;
+	border-radius: 5px;
+	background-color: rgb(193, 220, 229);
+	color: black;
+}
+a{
+	color: black;
+}
+.wp-block-column-is-layout-flow{
+	width: 110%;
+}
+.wp-block-post-excerpt__excerpt{
+	/* height: 100px; */
+	overflow: hidden;
+}
+
+
+/* BLOG PAGE */
+h1{
+	display: none;
+}
+
+.wc-block-mini-cart__button{
+	float: right;
+}
