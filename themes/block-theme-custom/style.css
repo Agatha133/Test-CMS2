@@ -176,3 +176,9 @@ h1{
 div.wpforms-container-full .wpforms-field-label{
 	color: black;
 }
+div.wpforms-container-full button{
+	background-color: rgb(213,79,191);
+}
+.wp-block-post-excerpt__more-link:hover{
+	color: gray;
+}
