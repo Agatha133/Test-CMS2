@@ -171,3 +171,8 @@ h1{
 .wc-block-components-button{
 	background-color: rgb(213,79,191);
 }
+
+/* Forms */
+div.wpforms-container-full .wpforms-field-label{
+	color: black;
+}
