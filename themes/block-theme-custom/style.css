@@ -162,3 +162,6 @@ h1{
 .wc-block-components-checkout-place-order-button{
 	background-color: rgb(213,79,191);
 }
+.wc-block-components-product-name:hover{
+	color: gray;
+}
