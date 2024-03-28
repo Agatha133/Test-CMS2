@@ -24,3 +24,15 @@ function block_theme_custom_wp_enqueue_scripts() {
 	);
 }
 add_action( 'wp_enqueue_scripts', 'block_theme_custom_wp_enqueue_scripts' );
+
+
+
+
+// function add_custom_pt( $query ) {
+// 	if ( !is_admin() && $query->is_main_query() ) {
+// 	  if ( $query->is_search ) {
+// 		$query->set( 'post_type', array( 'post', 'cms2_news' ) );
+// 	  }
+// 	}
+//   }
+//   add_action( 'pre_get_posts', 'cms2_pre_get_posts' );

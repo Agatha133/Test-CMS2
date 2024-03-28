@@ -99,26 +99,6 @@ body {
 	background-color: rgb(58, 58, 58);
 	color: white;
 }
-/* .wp-block-post-template{
-	display: flex;
-	flex-direction: row;
-	justify-content: space-around;
-} */
-
-
-/* .wp-block-spacer{
-	display: none;
-}
-.wp-block-post-featured-image img{
-	width: 80%;
-}
-.wp-block-post-excerpt__excerpt{
-	height: 200px;
-	overflow: hidden;
-}
-.wp-block-post-title a{
-	display:none;
-} */
 
 .attachment-post-thumbnail.size-post-thumbnail.wp-post-image{
 	width:75%;
@@ -138,7 +118,6 @@ a{
 	width: 110%;
 }
 .wp-block-post-excerpt__excerpt{
-	/* height: 100px; */
 	overflow: hidden;
 }
 
