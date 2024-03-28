@@ -46,7 +46,7 @@ body {
 	height: 200px;
 }
 
-/* Changing Text */
+/* ! Changing Text */
 .is-style-fancy-heading{
 	color: red;
 }
@@ -129,7 +129,7 @@ h1{
 }
 
 
-/* Woo Commerce */
+/* ! Woo Commerce */
 
 .wc-block-mini-cart__button{
 	float: right;
