@@ -184,3 +184,8 @@ div.wpforms-container-full button{
 .wp-block-post-excerpt__more-link:hover{
 	color: gray;
 }
+
+.post-spacing{
+	color: rgb(213,79,191);
+	background-color: rgb(213,79,191);
+}
