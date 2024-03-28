@@ -122,16 +122,18 @@ a{
 }
 
 
-/* BLOG PAGE */
+/* ! BLOG PAGE */
+/* title */
 h1{
 	display: none;
 }
 
+
+/* Woo Commerce */
+
 .wc-block-mini-cart__button{
 	float: right;
 }
-
-/* Woo Commerce */
 .wp-block-button__link.wp-element-button.add_to_cart_button.wc-block-components-product-button__button{
 	background-color: rgb(213,79,191);
 }
